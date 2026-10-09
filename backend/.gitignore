@@ -1,0 +1,9 @@
+node_modules/
+.env
+# Admin credentials (hashed) - never commit
+src/data/admin.json
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+public/downloads/*
+!public/downloads/.gitkeep

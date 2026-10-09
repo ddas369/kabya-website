@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "appName": "Kabya",
+    "fullName": "Kabya - Translator, Assamese",
+    "tagline": "A translator and AI grammar checker for Assamese, Bengali, and Hindi.",
+    "seoDescription": "Kabya is a translator app for Assamese, Bengali, and Hindi with text, voice, and camera translation plus an AI grammar checker, built by independent developer Dipankar Das."
+  },
+  "hero": {
+    "title": "Your words, carried into Assamese.",
+    "subtitle": "Type a sentence, speak it aloud, or point your camera at a signboard - Kabya turns it into Assamese, Bengali, Hindi, or English, and back again, in moments.",
+    "primaryCta": { "label": "Get it on Google Play", "url": "https://drive.google.com/uc?export=download&id=1rdbznGsXCRbe1QatCEXPjQh__n5wokzF" },
+    "secondaryCta": { "label": "Download APK", "url": "" }
+  },
+  "overview": {
+    "heading": "A translator built around how Assamese is actually spoken and read",
+    "paragraphs": [
+      "Kabya is a translation app built around Assamese, Bengali, and Hindi alongside English, for the everyday moments where a language barrier gets in the way - reading a notice, replying to a message, or helping a grandparent understand a form.",
+      "Rather than treating these languages as an afterthought bolted onto a generic translator, Kabya is designed around their scripts and rhythm from the ground up, so translations read naturally instead of sounding machine-stitched."
+    ]
+  },
+  "features": [
+    {
+      "id": "feat-type",
+      "icon": "type",
+      "title": "Type and translate",
+      "description": "Write in English, Assamese, Bengali, or Hindi and get a clean, natural translation back in seconds."
+    },
+    {
+      "id": "feat-grammar",
+      "icon": "grammar",
+      "title": "AI grammar & style check",
+      "description": "Paste in English text and Kabya checks grammar, spelling, and tone - casual, formal, concise, or academic.",
+      "highlight": true
+    },
+    {
+      "id": "feat-camera",
+      "icon": "camera",
+      "title": "Point your camera",
+      "description": "Scan a signboard, letter, or page with your camera and Kabya reads the text and translates it on the spot."
+    },
+    {
+      "id": "feat-voice",
+      "icon": "mic",
+      "title": "Speak it instead",
+      "description": "Not near a keyboard? Speak a sentence and Kabya listens, transcribes, and translates it for you."
+    }
+  ],
+  "howItWorks": [
+    {
+      "id": "step-1",
+      "title": "Type, speak, or scan",
+      "description": "Choose whichever way is fastest for the moment - keyboard, voice, or camera."
+    },
+    {
+      "id": "step-2",
+      "title": "Kabya translates",
+      "description": "Your words are converted into natural, readable Assamese or English."
+    },
+    {
+      "id": "step-3",
+      "title": "Read, copy, or share",
+      "description": "Use the translation right away, or copy and share it wherever you need it."
+    }
+  ],
+  "developer": {
+    "name": "Dipankar Das",
+    "role": "Independent App & Web Developer",
+    "location": "Assam, India",
+    "photoUrl": "/seed-images/developer-photo.jpg",
+    "bio": "Dipankar Das is an independent developer based in Assam, India, building apps and Android games on his own. Kabya grew out of a simple idea: Assamese speakers deserve a translator that treats their language as the main event, not an afterthought.",
+    "links": {
+      "email": "ddas369@gmail.com",
+      "instagram": "https://www.instagram.com/d_ipanka_r_?stkn=MWM0NnEwbHRkMXM1ZQ%3D%3D&utm_source=qr",
+      "github": "",
+      "linkedin": "",
+      "playstore": "",
+      "website": ""
+    },
+    "otherApps": [
+      {
+        "id": "app-crazy-auto",
+        "name": "Crazy Auto",
+        "description": "A kid-friendly racing game set on Indian road conditions.",
+        "url": "",
+        "imageUrl": "/seed-images/crazy-auto.jpg"
+      }
+    ]
+  },
+  "downloads": {
+    "playStoreUrl": "https://drive.google.com/uc?export=download&id=1rdbznGsXCRbe1QatCEXPjQh__n5wokzF",
+    "apkUrl": "",
+    "apkFileName": ""
+  }
+}
